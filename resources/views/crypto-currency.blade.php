@@ -8,6 +8,7 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+    <meta name="description" content="Échanger et calculez vos crypto-monnaies vers euro">
     <title>CoinPrice</title>
 </head>
 <style>
